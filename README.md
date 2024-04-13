@@ -4,18 +4,22 @@ Hello! I'm Alex, a passionate Bioinformatic with experience in data analysis, ma
 
 You can find more information about me and my work on my portfolio website:
 
-[![Botón Chulo](https://img.shields.io/badge/Visit%20my-Portfolio-green?style=for-the-badge&logo=appveyor)](https://alexsilvaa9.github.io)
-
-<img src="https://raw.githubusercontent.com/alexsilvaa9/alexsilvaa9/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexsilvaa9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <a href=https://alexsilvaa9.github.io>
+    <img src="https://img.shields.io/badge/Visit%20my-Portfolio-green?style=for-the-badge&logo=appveyor"  />
+  </a>
+</div>
+
+<div align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=alexsilvaa9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsilvaa9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
+
+
+
 
 ## Contact
 
@@ -25,5 +29,7 @@ I would love to connect with you! You can find me on:
 - Email: [email](mailto:alexsilvaebg9@gmail.com)
 
 Feel free to reach out if you have any questions or collaboration in mind.
+
+<img src="https://raw.githubusercontent.com/alexsilvaa9/alexsilvaa9/output/snake.svg" alt="Snake animation" />
 
 
