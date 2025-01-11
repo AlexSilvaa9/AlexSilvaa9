@@ -1,6 +1,6 @@
 <div align="center">
     <!-- Header Image (responsive) -->
-    <img src="giphy.webp" alt="Header Image" style="width: 100%; height: auto; max-height: 200px;" />
+    <img src="header.webp" alt="Header Image" style="width: 100%; height: auto; max-height: 200px;" />
 </div>
 
 ## About Me
